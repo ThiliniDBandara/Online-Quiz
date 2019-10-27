@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>LOGIN</title>
+	<title>LOGIN Form</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 
 	<link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
@@ -36,7 +36,10 @@
 		<p>
 			Not yet a member? <a href="registration.php">Sign up</a>
 		</p>
-	</form
+	</form>
+	<footer>
+		Login Form
+	</footer>
 
 
 
